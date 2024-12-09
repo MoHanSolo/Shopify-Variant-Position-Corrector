@@ -1,1 +1,1 @@
-# Shopify_Variant_Position-Corrector
+# Shopify-Variant-Position-Corrector
